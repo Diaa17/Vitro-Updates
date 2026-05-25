@@ -2,5 +2,5 @@
   "version": "1.1.0", 
   "releaseNotes": "تم تفعيل نظام العودة التلقائية للإصدار المستقر نظراً لوجود مشاكل فنية في إصدار 1.1.1",
   "downloadUrl": "https://github.com/Diaa17/Vitro-Player/releases/download/v1.1.0/Vitro_Setup.exe",
-  "blockedVersions": ["1.1.1"]
+  "blockedVersions": ["1.0.0"]
 }
