@@ -1,5 +1,6 @@
 {
-  "version": "V1.1.0",
-  "releaseNotes": "ما الجديد :\n\n- تحسين نظام التحديثات الهوائيه.\n- تحسين سرعة استجابة المعادل الصوتي.\n- إصلاح بعض الأخطاء.",
-  "downloadUrl": "https://github.com/Diaa17/Vitro-Updates/releases/download/1.1.0/Update.exe"
+  "version": "1.1.0", 
+  "releaseNotes": "تم تفعيل نظام العودة التلقائية للإصدار المستقر نظراً لوجود مشاكل فنية في إصدار 1.1.1",
+  "downloadUrl": "https://github.com/Diaa17/Vitro-Player/releases/download/v1.1.0/Vitro_Setup.exe",
+  "blockedVersions": ["1.1.1"]
 }
